@@ -1,0 +1,6 @@
+pip install keras_ocr
+pip install pytesseract 
+pip install easyocr
+pip uninstall opencv-python-headless -y
+pip install opencv-python --upgrade
+pip install MoviePy
